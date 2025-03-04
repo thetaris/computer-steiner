@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Auftrag>
+  <Verarbeitungskennzeichen>N</Verarbeitungskennzeichen>
+  <PosNrAuftragCSTransport>2300183</PosNrAuftragCSTransport>
+  <Auftragsart>KL</Auftragsart>
+  <ReferenznummerAuftrag>1230301455</ReferenznummerAuftrag>
+  <RelationAuftrag></RelationAuftrag>
+  <Auftraggeber>info@nunoverland.at</Auftraggeber>
+  <KontaktAuftraggeber>User 4 (TR)</KontaktAuftraggeber>
+  <Rechnungsempfaenger>info@nunoverland.at</Rechnungsempfaenger>
+  <Frankatur></Frankatur>
+  <Projekt></Projekt>
+  <Info>P010 080 002 / SY80 05TR Haman / SY IT</Info>
+  <BeladedatumAb>25.09.2023 00:00:00</BeladedatumAb>
+  <Mandant></Mandant>
+  <AbteilungAuftrag>TR</AbteilungAuftrag>
+  <SachbearbeiterAuftrag>USER4</SachbearbeiterAuftrag>
+  <Station>
+    <StationsreihungTour>1</StationsreihungTour>
+    <BeladeStationsreihungTour>1</BeladeStationsreihungTour>
+    <ZugehoerigeUP>127048</ZugehoerigeUP>
+    <BeladedatumAb>04.04.2023</BeladedatumAb>
+    <BeladezeitpunktAb>08:00</BeladezeitpunktAb>
+    <BeladedatumBis></BeladedatumBis>
+    <BeladezeitpunktBis></BeladezeitpunktBis>
+    <BeladedatumFIX>0</BeladedatumFIX>
+    <BeladeDispodatum>04.04.2023 00:00:00</BeladeDispodatum>
+    <BeladeDispozeit>08:00</BeladeDispozeit>
+    <BeladeAufliegerInfo></BeladeAufliegerInfo>
+    <BeladeortName>Silent Italia Srl</BeladeortName>
+    <BeladesortStrasse>Via Papiria 62</BeladesortStrasse>
+    <BeladeortLand>IT</BeladeortLand>
+    <BeladeortPLZ>61032</BeladeortPLZ>
+    <BeladeortOrt>Fano</BeladeortOrt>
+    <KontaktBeladeort></KontaktBeladeort>
+    <LadegutAnzahl></LadegutAnzahl>
+    <LadegutEinheit></LadegutEinheit>
+    <LadegutBeschreibung></LadegutBeschreibung>
+    <AusstattungFahrzeugBeladung></AusstattungFahrzeugBeladung>
+    <BemerkungBeladeort></BemerkungBeladeort>
+    <LademitteltauschBeladung>0</LademitteltauschBeladung>
+    <BemerkungLademitteltauschBeladung></BemerkungLademitteltauschBeladung>
+    <LadeNr></LadeNr>
+    <ADR></ADR>
+    <Palettenanzahl></Palettenanzahl>
+    <Lademeter></Lademeter>
+    <Ladungsvolumen></Ladungsvolumen>
+    <Verrechnungsgewicht></Verrechnungsgewicht>
+    <Ladungsgewicht></Ladungsgewicht>
+    <LadegutDetail>
+      <LadegutDetailAnzahl>2</LadegutDetailAnzahl>
+      <LadegutDetailEinheit>EUR</LadegutDetailEinheit>
+      <LadegutDetailBeschreibung></LadegutDetailBeschreibung>
+      <LadegutDetailLadeNr></LadegutDetailLadeNr>
+      <LadegutDetailPalettenanzahl>2</LadegutDetailPalettenanzahl>
+      <LadegutDetailLademeter>0,82</LadegutDetailLademeter>
+      <LadegutDetailLaenge>122</LadegutDetailLaenge>
+      <LadegutDetailBreite>82</LadegutDetailBreite>
+      <LadegutDetailHoehe>95</LadegutDetailHoehe>
+      <LadegutDetailVolumen>1,9</LadegutDetailVolumen>
+      <LadegutDetailLadungsgewicht>0</LadegutDetailLadungsgewicht>
+      <LadegutDetailVerrechnungsgewicht>0</LadegutDetailVerrechnungsgewicht>
+      <LadegutDetailTemperatur>0</LadegutDetailTemperatur>
+      <LadegutDetailWarenwert>0</LadegutDetailWarenwert>
+      <LadegutDetailADR>0</LadegutDetailADR>
+    </LadegutDetail>
+  </Station>
+  <Station>
+    <StationsreihungTour>2</StationsreihungTour>
+    <EntladeStationsreihungTour>2</EntladeStationsreihungTour>
+    <ZugehoerigeUP>127048</ZugehoerigeUP>
+    <EntladedatumAb>05.04.2023</EntladedatumAb>
+    <EntladezeitpunktAb>10:00</EntladezeitpunktAb>
+    <EntladedatumBis></EntladedatumBis>
+    <EntladezeitpunktBis></EntladezeitpunktBis>
+    <EntladedatumFIX>0</EntladedatumFIX>
+    <EntladeDispodatum>05.04.2023 00:00:00</EntladeDispodatum>
+    <EntladeDispozeit>10:00</EntladeDispozeit>
+    <EntladeAufliegerInfo></EntladeAufliegerInfo>
+    <EntladeortName>NUN OVERLAND, Gersdof</EntladeortName>
+    <EntladeortStrasse></EntladeortStrasse>
+    <EntladeortLand></EntladeortLand>
+    <EntladeortPLZ></EntladeortPLZ>
+    <EntladeortOrt></EntladeortOrt>
+    <KontaktEntladeort></KontaktEntladeort>
+    <LademitteltauschEntladung>0</LademitteltauschEntladung>
+    <AusstattungFahrzeugEntladung></AusstattungFahrzeugEntladung>
+    <BemerkungEntladeort></BemerkungEntladeort>
+    <BemerkungLademitteltauschEntladung></BemerkungLademitteltauschEntladung>
+  </Station>
+  <Tour>
+    <Fahrzeug></Fahrzeug>
+    <Auflieger></Auflieger>
+    <FahrzeugKennzeichen></FahrzeugKennzeichen>
+    <AufliegerKennzeichen></AufliegerKennzeichen>
+    <Fahrer1></Fahrer1>
+    <Fahrer2></Fahrer2>
+    <BezeichnungTour>IT 61032 Fano -  (1B/1E)</BezeichnungTour>
+    <ReferenznummerTour></ReferenznummerTour>
+    <Mandant>01A</Mandant>
+    <AbteilungTour>TR</AbteilungTour>
+    <SachbearbeiterTour>USER4</SachbearbeiterTour>
+    <RelationTour></RelationTour>
+  </Tour>
+  <VerrechnungAuftrag>
+    <VerrechnungAuftragMenge>1</VerrechnungAuftragMenge>
+    <VerrechnungAuftragBezeichnung1>Frachtpauschale</VerrechnungAuftragBezeichnung1>
+    <VerrechnungAuftragArtikel>FP</VerrechnungAuftragArtikel>
+    <VerrechnungAuftragGesamtpreis>0</VerrechnungAuftragGesamtpreis>
+    <VerrechnungAuftragWaehrung>EUR</VerrechnungAuftragWaehrung>
+  </VerrechnungAuftrag>
+</Auftrag>
